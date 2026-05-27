@@ -1,7 +1,7 @@
 {
   "schema": "badBANANA Evidence Manifest v1",
-  "updated": "2026-05-27T04:43:53.216033+00:00",
-  "entry_count": 29,
+  "updated": "2026-05-27T12:49:18.473030+00:00",
+  "entry_count": 31,
   "entries": [
     {
       "type": "file",
@@ -317,6 +317,28 @@
       "wayback_url": "https://web.archive.org/web/*/https://code.market/blog",
       "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/63f690e71d25473e_code.market_blog.ots",
       "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044348Z_code.market_blog",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T12:48:01.293189+00:00",
+      "sha256": "61e0e0524adf8a2023cacee2b484d22c90fd0d182f1d0ef7ed88ec3163b7dc24",
+      "content_length": 36015,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/61e0e0524adf8a20_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T124806Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T12:49:13.424736+00:00",
+      "sha256": "d0b913c85da6875e8f8d2493fe24c381c0d66f74bfcf9425ba6e4990536aa6bd",
+      "content_length": 35959,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d0b913c85da6875e_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T124914Z_nsboost.xyz",
       "http_status": 200
     }
   ]
