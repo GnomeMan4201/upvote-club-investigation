@@ -1,0 +1,323 @@
+{
+  "schema": "badBANANA Evidence Manifest v1",
+  "updated": "2026-05-27T04:43:53.216033+00:00",
+  "entry_count": 29,
+  "entries": [
+    {
+      "type": "file",
+      "source_file": "/home/gnomeman4201/test_evidence.txt",
+      "filename": "test_evidence.txt",
+      "preserved_at": "2026-05-27T03:06:42.335071+00:00",
+      "sha256": "6c1311981a58c0f21955a72ad49eed22218fe888bbe9c9662c517c6bb3fb3c0c",
+      "file_size": 50,
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/6c1311981a58c0f2_test_evidence.ots",
+      "copied_to": "/home/gnomeman4201/badbanana_evidence/raw/20260527T030642Z_test_evidence.txt"
+    },
+    {
+      "type": "file",
+      "source_file": "/home/gnomeman4201/test_evidence.txt",
+      "filename": "test_evidence.txt",
+      "preserved_at": "2026-05-27T03:09:57.837447+00:00",
+      "sha256": "3203330051d2442fbfecae4150ccbc2b5b541631595fe150f50aba499f91b05b",
+      "file_size": 50,
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/3203330051d2442f_test_evidence.ots",
+      "copied_to": "/home/gnomeman4201/badbanana_evidence/raw/20260527T030957Z_test_evidence.txt"
+    },
+    {
+      "type": "file",
+      "source_file": "/home/gnomeman4201/test_evidence.txt",
+      "filename": "test_evidence.txt",
+      "preserved_at": "2026-05-27T03:10:51.260873+00:00",
+      "sha256": "3203330051d2442fbfecae4150ccbc2b5b541631595fe150f50aba499f91b05b",
+      "file_size": 50,
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/3203330051d2442f_test_evidence.ots",
+      "copied_to": "/home/gnomeman4201/badbanana_evidence/raw/20260527T031051Z_test_evidence.txt"
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog",
+      "preserved_at": "2026-05-27T03:49:56.472826+00:00",
+      "sha256": "ddd005cd9a7a20afc3b37f8c1b89d887c10b92160dd038b0138e4bb8751aa40e",
+      "content_length": 441636,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/ddd005cd9a7a20af_upvote.club_blog.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T034958Z_upvote.club_blog",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/author/alexeympw",
+      "preserved_at": "2026-05-27T03:50:04.253703+00:00",
+      "sha256": "9ba9124c869f8245664ebad3f12bdcc9ec13c86922c375373fb441190a01c8b1",
+      "content_length": 423419,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/author/alexeympw",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/9ba9124c869f8245_upvote.club_blog_author_alexey.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035011Z_upvote.club_blog_author_alexeympw",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/free-viewer-bot",
+      "preserved_at": "2026-05-27T03:50:17.463519+00:00",
+      "sha256": "f76c782b297e6410f02e984c1763263c40ebde37ea9cadc37ccc8bb84acd4a05",
+      "content_length": 1266610,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/free-viewer-bot",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/f76c782b297e6410_upvote.club_blog_free-viewer-b.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035023Z_upvote.club_blog_free-viewer-bot",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/viewer-bots-twitch",
+      "preserved_at": "2026-05-27T03:50:29.446368+00:00",
+      "sha256": "36585afe9b5198a7b82737f0a477c10e6232bd08f098b7a8d56fea61b037462b",
+      "content_length": 1278892,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/viewer-bots-twitch",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/36585afe9b5198a7_upvote.club_blog_viewer-bots-t.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035030Z_upvote.club_blog_viewer-bots-twitch",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/social-media-engagement-tips",
+      "preserved_at": "2026-05-27T03:50:36.509906+00:00",
+      "sha256": "8c064a4ae04fafdb6daad08d24cf8c3738e8423e9f033a34bd8e05da050d857b",
+      "content_length": 1325930,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/social-media-engagement-tips",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/8c064a4ae04fafdb_upvote.club_blog_social-media-.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035042Z_upvote.club_blog_social-media-engagement-tips",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/growth-linkedin-followers-in-2025",
+      "preserved_at": "2026-05-27T03:50:48.593644+00:00",
+      "sha256": "d9c38ab83bad70bfa1b834df76a2b33c316a24cc50417c50da384b2e540ac46b",
+      "content_length": 175747,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/growth-linkedin-followers-in-2025",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d9c38ab83bad70bf_upvote.club_blog_growth-linked.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035055Z_upvote.club_blog_growth-linkedin-followers-in-2025",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/white-label-ai-a-complex-tool-for-business-success",
+      "preserved_at": "2026-05-27T03:51:01.598542+00:00",
+      "sha256": "c6274ceb2af3480f88bbe5d23234c26a4107a1f690344195afe6454ed04a760b",
+      "content_length": 175772,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/white-label-ai-a-complex-tool-for-business-success",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/c6274ceb2af3480f_upvote.club_blog_white-label-a.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035105Z_upvote.club_blog_white-label-ai-a-complex-tool-for-business-success",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/ai-tools-for-content-generation",
+      "preserved_at": "2026-05-27T03:51:11.603746+00:00",
+      "sha256": "5658625b184fa29445ee4c39b2c79d8fadf028a79c1edfb0d1ef5ff41f08a18c",
+      "content_length": 175739,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/ai-tools-for-content-generation",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/5658625b184fa294_upvote.club_blog_ai-tools-for-.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035118Z_upvote.club_blog_ai-tools-for-content-generation",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/ai-tools-for-content-generation-11",
+      "preserved_at": "2026-05-27T03:51:24.741643+00:00",
+      "sha256": "04361aa7a4c51601a99ad93978b4da725d9ffabfb2c8f90e4f75cfda8ddeacd9",
+      "content_length": 175751,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/ai-tools-for-content-generation-11",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/04361aa7a4c51601_upvote.club_blog_ai-tools-for-.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035126Z_upvote.club_blog_ai-tools-for-content-generation-11",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://code.market/blog",
+      "preserved_at": "2026-05-27T03:51:32.715365+00:00",
+      "sha256": "63f690e71d25473e9c14ac47a3b11232194e9f163a3b6ee3e3225ffc8524cba9",
+      "content_length": 55649,
+      "wayback_url": "https://web.archive.org/web/*/https://code.market/blog",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/63f690e71d25473e_code.market_blog.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T035133Z_code.market_blog",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T04:11:32.488522+00:00",
+      "sha256": "d0b913c85da6875e8f8d2493fe24c381c0d66f74bfcf9425ba6e4990536aa6bd",
+      "content_length": 35959,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d0b913c85da6875e_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T041134Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T04:14:50.635562+00:00",
+      "sha256": "d0b913c85da6875e8f8d2493fe24c381c0d66f74bfcf9425ba6e4990536aa6bd",
+      "content_length": 35959,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d0b913c85da6875e_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T041451Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T04:28:09.676208+00:00",
+      "sha256": "61e0e0524adf8a2023cacee2b484d22c90fd0d182f1d0ef7ed88ec3163b7dc24",
+      "content_length": 36015,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/61e0e0524adf8a20_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T042812Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T04:30:59.385804+00:00",
+      "sha256": "d0b913c85da6875e8f8d2493fe24c381c0d66f74bfcf9425ba6e4990536aa6bd",
+      "content_length": 35959,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d0b913c85da6875e_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T043059Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T04:34:38.038213+00:00",
+      "sha256": "d0b913c85da6875e8f8d2493fe24c381c0d66f74bfcf9425ba6e4990536aa6bd",
+      "content_length": 35959,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d0b913c85da6875e_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T043443Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://nsboost.xyz",
+      "preserved_at": "2026-05-27T04:41:52.377662+00:00",
+      "sha256": "61e0e0524adf8a2023cacee2b484d22c90fd0d182f1d0ef7ed88ec3163b7dc24",
+      "content_length": 36015,
+      "wayback_url": "https://web.archive.org/web/*/https://nsboost.xyz",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/61e0e0524adf8a20_nsboost.xyz.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044155Z_nsboost.xyz",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog",
+      "preserved_at": "2026-05-27T04:42:20.165288+00:00",
+      "sha256": "67627f00195d6197fd24278564da1a16ac5e00d3fd86cb79299c17de5953ddf1",
+      "content_length": 441636,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/67627f00195d6197_upvote.club_blog.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044226Z_upvote.club_blog",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/author/alexeympw",
+      "preserved_at": "2026-05-27T04:42:32.864727+00:00",
+      "sha256": "9ba9124c869f8245664ebad3f12bdcc9ec13c86922c375373fb441190a01c8b1",
+      "content_length": 423419,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/author/alexeympw",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/9ba9124c869f8245_upvote.club_blog_author_alexey.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044239Z_upvote.club_blog_author_alexeympw",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/free-viewer-bot",
+      "preserved_at": "2026-05-27T04:42:45.865683+00:00",
+      "sha256": "f76c782b297e6410f02e984c1763263c40ebde37ea9cadc37ccc8bb84acd4a05",
+      "content_length": 1266610,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/free-viewer-bot",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/f76c782b297e6410_upvote.club_blog_free-viewer-b.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044247Z_upvote.club_blog_free-viewer-bot",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/viewer-bots-twitch",
+      "preserved_at": "2026-05-27T04:42:54.981078+00:00",
+      "sha256": "36585afe9b5198a7b82737f0a477c10e6232bd08f098b7a8d56fea61b037462b",
+      "content_length": 1278892,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/viewer-bots-twitch",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/36585afe9b5198a7_upvote.club_blog_viewer-bots-t.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044257Z_upvote.club_blog_viewer-bots-twitch",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/social-media-engagement-tips",
+      "preserved_at": "2026-05-27T04:43:04.002198+00:00",
+      "sha256": "8c064a4ae04fafdb6daad08d24cf8c3738e8423e9f033a34bd8e05da050d857b",
+      "content_length": 1325930,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/social-media-engagement-tips",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/8c064a4ae04fafdb_upvote.club_blog_social-media-.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044305Z_upvote.club_blog_social-media-engagement-tips",
+      "http_status": 200
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/growth-linkedin-followers-in-2025",
+      "preserved_at": "2026-05-27T04:43:11.057712+00:00",
+      "sha256": "d9c38ab83bad70bfa1b834df76a2b33c316a24cc50417c50da384b2e540ac46b",
+      "content_length": 175747,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/growth-linkedin-followers-in-2025",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/d9c38ab83bad70bf_upvote.club_blog_growth-linked.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044316Z_upvote.club_blog_growth-linkedin-followers-in-2025",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/white-label-ai-a-complex-tool-for-business-success",
+      "preserved_at": "2026-05-27T04:43:23.037615+00:00",
+      "sha256": "c6274ceb2af3480f88bbe5d23234c26a4107a1f690344195afe6454ed04a760b",
+      "content_length": 175772,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/white-label-ai-a-complex-tool-for-business-success",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/c6274ceb2af3480f_upvote.club_blog_white-label-a.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044326Z_upvote.club_blog_white-label-ai-a-complex-tool-for-business-success",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/ai-tools-for-content-generation",
+      "preserved_at": "2026-05-27T04:43:32.024317+00:00",
+      "sha256": "5658625b184fa29445ee4c39b2c79d8fadf028a79c1edfb0d1ef5ff41f08a18c",
+      "content_length": 175739,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/ai-tools-for-content-generation",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/5658625b184fa294_upvote.club_blog_ai-tools-for-.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044332Z_upvote.club_blog_ai-tools-for-content-generation",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://upvote.club/blog/ai-tools-for-content-generation-11",
+      "preserved_at": "2026-05-27T04:43:39.115118+00:00",
+      "sha256": "04361aa7a4c51601a99ad93978b4da725d9ffabfb2c8f90e4f75cfda8ddeacd9",
+      "content_length": 175751,
+      "wayback_url": "https://web.archive.org/web/*/https://upvote.club/blog/ai-tools-for-content-generation-11",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/04361aa7a4c51601_upvote.club_blog_ai-tools-for-.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044341Z_upvote.club_blog_ai-tools-for-content-generation-11",
+      "http_status": 404
+    },
+    {
+      "type": "url",
+      "source_url": "https://code.market/blog",
+      "preserved_at": "2026-05-27T04:43:48.125776+00:00",
+      "sha256": "63f690e71d25473e9c14ac47a3b11232194e9f163a3b6ee3e3225ffc8524cba9",
+      "content_length": 55649,
+      "wayback_url": "https://web.archive.org/web/*/https://code.market/blog",
+      "ots_proof": "/home/gnomeman4201/badbanana_evidence/ots/63f690e71d25473e_code.market_blog.ots",
+      "raw_file": "/home/gnomeman4201/badbanana_evidence/raw/20260527T044348Z_code.market_blog",
+      "http_status": 200
+    }
+  ]
+}
