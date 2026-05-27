@@ -1,0 +1,3 @@
+staging/
+*.bak
+.DS_Store
